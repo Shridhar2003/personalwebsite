@@ -1,0 +1,23 @@
+
+body{
+  background-color: #F7F6DC;
+}
+hr{
+  
+  border-style: none none dotted none;
+  border-width: 7px;
+  width: 6%;
+  height: 0px;
+  border-color: #FFC090;
+  align-items: center;
+}
+img{
+  height: 100px;
+}
+h1{
+    color: #7FB77E;
+}
+
+h2{
+    color: #B1D7B4;
+}
